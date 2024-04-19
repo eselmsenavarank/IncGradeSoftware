@@ -1,0 +1,675 @@
+.navigation-links1-nav {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.navigation-links1-text {
+  color: rgba(0, 0, 0, 0.63);
+}
+.navigation-links1-text1 {
+  color: rgba(0, 0, 0, 0.63);
+  margin-left: var(--dl-space-space-sixunits);
+}
+
+
+
+
+
+
+
+
+.navigation-links1-root-class-name8 {
+  top: 31px;
+  left: 7px;
+  position: absolute;
+}
+.navigation-links1-root-class-name12 {
+  top: 31px;
+  left: 7px;
+  position: absolute;
+}
+@media(max-width: 767px) {
+  .navigation-links1-nav {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .navigation-links1-text {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links1-text1 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+}
+
+.professor-page-your-students-container {
+  width: 100vh;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.professor-page-your-students-my-work {
+  top: 45px;
+  left: 364px;
+  position: absolute;
+}
+.professor-page-your-students-menu {
+  top: 0px;
+  left: 0px;
+  width: 311px;
+  height: 726px;
+  display: flex;
+  position: absolute;
+  align-self: flex-start;
+  align-items: flex-start;
+  border-color: rgba(0, 0, 0, 0.15);
+  border-width: 1px;
+  padding-left: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 0px;
+}
+
+.professor-page-your-students-image {
+  width: 242px;
+  height: 174px;
+  object-fit: cover;
+}
+.professor-page-your-students-container1 {
+  width: 234px;
+  height: 850px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.professor-page-your-students-nav-above {
+  width: 255px;
+  height: 160px;
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-fiveunits);
+  align-items: stretch;
+  border-color: rgba(0, 0, 0, 0.23);
+  border-width: 1px;
+  flex-direction: column;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.professor-page-your-students-icon {
+  width: 24px;
+  height: 24px;
+}
+.professor-page-your-students-dashboard {
+  top: 3px;
+  left: 51px;
+  position: absolute;
+  font-size: 20px;
+}
+.professor-page-your-students-icon02 {
+  top: 47px;
+  left: -3px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.professor-page-your-students-contact {
+  top: 51px;
+  left: 51px;
+  position: absolute;
+  font-size: 20px;
+}
+.professor-page-your-students-icon04 {
+  top: 100px;
+  left: -1px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.professor-page-your-students-submit {
+  top: 100px;
+  right: 16px;
+  position: absolute;
+  font-size: 20px;
+}
+.professor-page-your-students-nav-below {
+  width: 100%;
+  height: 160px;
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  margin-top: 3vh;
+  align-items: stretch;
+  flex-direction: column;
+}
+.professor-page-your-students-text {
+  top: 3px;
+  left: 51px;
+  position: absolute;
+  font-size: 20px;
+}
+.professor-page-your-students-icon07 {
+  width: 24px;
+  height: 24px;
+}
+.professor-page-your-students-icon09 {
+  top: 50px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.professor-page-your-students-text01 {
+  top: 51px;
+  left: 51px;
+  position: absolute;
+  font-size: 20px;
+}
+.professor-page-your-students-profile {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-top: var(--dl-space-space-unit);
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.professor-page-your-students-user-pic {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  object-fit: cover;
+  border-radius: var(--dl-radius-radius-round);
+}
+.professor-page-your-students-info {
+  display: flex;
+  align-items: flex-start;
+  margin-left: var(--dl-space-space-halfunit);
+  flex-direction: column;
+  justify-content: space-between;
+}
+.professor-page-your-students-text02 {
+  font-size: 1.15rem;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+.professor-page-your-students-text03 {
+  color: var(--dl-color-gray-500);
+  font-size: 0.75rem;
+}
+.professor-page-your-students-logout {
+  left: 174px;
+  width: 59px;
+  bottom: 13px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.professor-page-your-students-text04 {
+  color: rgba(0, 0, 0, 0.55);
+  right: 0px;
+  bottom: 0px;
+  position: absolute;
+  font-size: 13px;
+  align-self: flex-end;
+}
+.professor-page-your-students-header {
+  top: 96px;
+  right: -11px;
+  width: 1117px;
+  height: 58px;
+  display: flex;
+  position: absolute;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  border-color: rgba(0, 0, 0, 0.63);
+  border-width: 1px;
+  justify-content: space-between;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 1px;
+}
+.professor-page-your-students-class1 {
+  top: 188px;
+  left: 373px;
+  color: rgba(0, 0, 0, 0.7);
+  position: absolute;
+}
+.professor-page-your-students-ul {
+  top: 239px;
+  left: 431px;
+  width: 589px;
+  height: 488px;
+  position: fixed;
+  overflow-y: auto;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  margin-right: 0px;
+  padding-left: 0px;
+  list-style-type: none;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 0px;
+}
+.professor-page-your-students-student-info {
+  width: 372px;
+  height: 238px;
+  position: relative;
+  padding-top: var(--dl-space-space-unit);
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  margin-bottom: var(--dl-space-space-twounits);
+  list-style-type: disc;
+  border-top-width: 1px;
+  list-style-image: none;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  list-style-position: outside;
+}
+.professor-page-your-students-student-name {
+  font-size: 20px;
+}
+.professor-page-your-students-container2 {
+  top: 16px;
+  flex: 0 0 auto;
+  right: -94px;
+  width: 332px;
+  height: 205px;
+  display: flex;
+  position: absolute;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+  background-color: rgba(249, 136, 4, 0.72);
+}
+.professor-page-your-students-text07 {
+  top: 0px;
+  left: 32px;
+  bottom: 0px;
+  margin: auto;
+  position: absolute;
+  align-self: center;
+}
+.professor-page-your-students-text08 {
+  color: #fff4f4;
+  font-style: normal;
+  font-weight: 600;
+}
+.professor-page-your-students-text09 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text10 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text11 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text12 {
+  color: #fff4f4;
+  font-style: normal;
+  font-weight: 600;
+}
+.professor-page-your-students-text13 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text14 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text15 {
+  color: #fff4f4;
+  font-style: normal;
+  font-weight: 600;
+}
+.professor-page-your-students-text16 {
+  color: #fff4f4;
+  font-style: normal;
+  font-weight: 600;
+}
+.professor-page-your-students-text17 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text18 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text19 {
+  color: #fff4f4;
+  font-style: normal;
+  font-weight: 600;
+}
+.professor-page-your-students-text20 {
+  color: #fff4f4;
+  font-style: normal;
+  font-weight: 600;
+}
+.professor-page-your-students-text21 {
+  color: #fff4f4;
+}
+.professor-page-your-students-student-info1 {
+  width: 372px;
+  height: 238px;
+  position: relative;
+  padding-top: var(--dl-space-space-unit);
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  margin-bottom: var(--dl-space-space-twounits);
+  list-style-type: disc;
+  border-top-width: 1px;
+  list-style-image: none;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  list-style-position: outside;
+}
+.professor-page-your-students-student-name1 {
+  font-size: 20px;
+}
+.professor-page-your-students-container3 {
+  top: 16px;
+  flex: 0 0 auto;
+  right: -94px;
+  width: 337px;
+  height: 205px;
+  display: flex;
+  position: absolute;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+  background-color: rgba(249, 136, 4, 0.72);
+}
+.professor-page-your-students-text26 {
+  top: 0px;
+  left: 32px;
+  bottom: 0px;
+  margin: auto;
+  position: absolute;
+  align-self: center;
+}
+.professor-page-your-students-text27 {
+  color: #fff4f4;
+  font-style: normal;
+  font-weight: 600;
+}
+.professor-page-your-students-text28 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text29 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text30 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text31 {
+  color: #fff4f4;
+  font-style: normal;
+  font-weight: 600;
+}
+.professor-page-your-students-text32 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text33 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text34 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text35 {
+  color: #fff4f4;
+  font-style: normal;
+  font-weight: 600;
+}
+.professor-page-your-students-text36 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text37 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text38 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text39 {
+  color: #fff4f4;
+  font-style: normal;
+  font-weight: 600;
+}
+.professor-page-your-students-text40 {
+  color: #fff4f4;
+}
+.professor-page-your-students-student-info2 {
+  width: 372px;
+  height: 238px;
+  position: relative;
+  padding-top: var(--dl-space-space-unit);
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  margin-bottom: var(--dl-space-space-twounits);
+  list-style-type: disc;
+  border-top-width: 1px;
+  list-style-image: none;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  list-style-position: outside;
+}
+.professor-page-your-students-student-name2 {
+  font-size: 20px;
+}
+.professor-page-your-students-container4 {
+  top: 16px;
+  flex: 0 0 auto;
+  right: -94px;
+  width: 341px;
+  height: 205px;
+  display: flex;
+  position: absolute;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+  background-color: rgba(249, 136, 4, 0.72);
+}
+.professor-page-your-students-text44 {
+  top: 0px;
+  left: 32px;
+  bottom: 0px;
+  margin: auto;
+  position: absolute;
+  align-self: center;
+}
+.professor-page-your-students-text45 {
+  color: #fff4f4;
+  font-style: normal;
+  font-weight: 600;
+}
+.professor-page-your-students-text46 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text47 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text48 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text49 {
+  color: #fff4f4;
+  font-style: normal;
+  font-weight: 600;
+}
+.professor-page-your-students-text50 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text51 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text52 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text53 {
+  color: #fff4f4;
+  font-style: normal;
+  font-weight: 600;
+}
+.professor-page-your-students-text54 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text55 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text56 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text57 {
+  color: #fff4f4;
+  font-style: normal;
+  font-weight: 600;
+}
+.professor-page-your-students-text58 {
+  color: #fff4f4;
+}
+.professor-page-your-students-student-info3 {
+  width: 372px;
+  height: 238px;
+  position: relative;
+  padding-top: var(--dl-space-space-unit);
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  margin-bottom: var(--dl-space-space-twounits);
+  list-style-type: disc;
+  border-top-width: 1px;
+  list-style-image: none;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  list-style-position: outside;
+}
+.professor-page-your-students-student-name3 {
+  font-size: 20px;
+}
+.professor-page-your-students-container5 {
+  top: 16px;
+  flex: 0 0 auto;
+  right: -94px;
+  width: 341px;
+  height: 205px;
+  display: flex;
+  position: absolute;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+  background-color: rgba(249, 136, 4, 0.72);
+}
+.professor-page-your-students-text62 {
+  top: 0px;
+  left: 32px;
+  bottom: 0px;
+  margin: auto;
+  position: absolute;
+  align-self: center;
+}
+.professor-page-your-students-text63 {
+  color: #fff4f4;
+  font-style: normal;
+  font-weight: 600;
+}
+.professor-page-your-students-text64 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text65 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text66 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text67 {
+  color: #fff4f4;
+  font-style: normal;
+  font-weight: 600;
+}
+.professor-page-your-students-text68 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text69 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text70 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text71 {
+  color: #fff4f4;
+  font-style: normal;
+  font-weight: 600;
+}
+.professor-page-your-students-text72 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text73 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text74 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text75 {
+  color: #fff4f4;
+  font-style: normal;
+  font-weight: 600;
+}
+.professor-page-your-students-text76 {
+  color: #fff4f4;
+}
+.professor-page-your-students-text78 {
+  top: 568px;
+  right: 30px;
+  width: 385px;
+  height: 190px;
+  position: absolute;
+  font-size: 25px;
+}
+.professor-page-your-students-text79 {
+  font-style: normal;
+  font-weight: 400;
+}
+.professor-page-your-students-text80 {
+  font-style: normal;
+  font-weight: 400;
+}
+.professor-page-your-students-text81 {
+  font-style: normal;
+  font-weight: 400;
+}
+.professor-page-your-students-text82 {
+  font-style: normal;
+  font-weight: 400;
+}
+.professor-page-your-students-text83 {
+  font-style: normal;
+  font-weight: 400;
+}
+@media(max-width: 991px) {
+  .professor-page-your-students-profile {
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+  }
+  .professor-page-your-students-user-pic {
+    margin-left: 0px;
+  }
+}
+@media(max-width: 767px) {
+  .professor-page-your-students-header {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+}
+@media(max-width: 479px) {
+  .professor-page-your-students-header {
+    padding: var(--dl-space-space-unit);
+  }
+}
+

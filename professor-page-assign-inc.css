@@ -1,0 +1,415 @@
+.navigation-links1-nav {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.navigation-links1-text {
+  color: rgba(0, 0, 0, 0.63);
+}
+.navigation-links1-text1 {
+  color: rgba(0, 0, 0, 0.63);
+  margin-left: var(--dl-space-space-sixunits);
+}
+
+
+
+
+
+
+
+
+.navigation-links1-root-class-name8 {
+  top: 31px;
+  left: 7px;
+  position: absolute;
+}
+.navigation-links1-root-class-name12 {
+  top: 31px;
+  left: 7px;
+  position: absolute;
+}
+.navigation-links1-root-class-name9 {
+  top: 31px;
+  left: 7px;
+  position: absolute;
+}
+@media(max-width: 767px) {
+  .navigation-links1-nav {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .navigation-links1-text {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links1-text1 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+}
+
+.professor-page-assign-inc-container {
+  width: 100vh;
+  height: 100vh;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.professor-page-assign-inc-assign-inc {
+  top: 208px;
+  left: 391px;
+  width: 988px;
+  height: 446px;
+  display: flex;
+  position: absolute;
+}
+.professor-page-assign-inc-container1 {
+  top: 17px;
+  left: 20px;
+  width: 743px;
+  height: 430px;
+  display: flex;
+  position: absolute;
+}
+.professor-page-assign-inc-container2 {
+  top: 0px;
+  flex: 0 0 auto;
+  right: 0px;
+  width: 329px;
+  height: 414px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: center;
+  margin-bottom: auto;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.professor-page-assign-inc-text {
+  color: rgba(191, 38, 38, 0.7);
+  font-size: 20px;
+  align-self: flex-start;
+  font-style: normal;
+  font-family: "Fira Sans";
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.professor-page-assign-inc-classes {
+  width: var(--dl-size-size-xxlarge);
+  height: 78px;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius4);
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.professor-page-assign-inc-text01 {
+  color: rgba(191, 38, 38, 0.7);
+  font-size: 20px;
+  align-self: flex-start;
+  font-style: normal;
+  font-family: "Fira Sans";
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.professor-page-assign-inc-owned-work {
+  width: var(--dl-size-size-xxlarge);
+  height: 70px;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.professor-page-assign-inc-text02 {
+  color: rgba(191, 38, 38, 0.7);
+  font-size: 20px;
+  align-self: flex-start;
+  font-style: normal;
+  font-family: "Fira Sans";
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.professor-page-assign-inc-due-date {
+  width: var(--dl-size-size-xxlarge);
+  height: 70px;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.professor-page-assign-inc-container3 {
+  top: 0px;
+  flex: 0 0 auto;
+  left: 0px;
+  width: 329px;
+  height: 602px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: center;
+  margin-bottom: auto;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.professor-page-assign-inc-name {
+  color: rgba(191, 38, 38, 0.7);
+  font-size: 20px;
+  align-self: flex-start;
+  font-style: normal;
+  text-align: left;
+  font-family: "Fira Sans";
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.professor-page-assign-inc-name1 {
+  width: var(--dl-size-size-xxlarge);
+  height: 70px;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.professor-page-assign-inc-surname {
+  color: rgba(191, 38, 38, 0.7);
+  font-size: 20px;
+  align-self: flex-start;
+  font-style: normal;
+  font-family: "Fira Sans";
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.professor-page-assign-inc-surname1 {
+  width: var(--dl-size-size-xxlarge);
+  height: 70px;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.professor-page-assign-inc-text03 {
+  color: rgba(191, 38, 38, 0.7);
+  font-size: 20px;
+  align-self: flex-start;
+  font-style: normal;
+  font-family: "Fira Sans";
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.professor-page-assign-inc-bmc-ci-d {
+  width: var(--dl-size-size-xxlarge);
+  height: 70px;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.professor-page-assign-inc-button {
+  right: -213px;
+  width: 185px;
+  bottom: 58px;
+  height: 61px;
+  position: absolute;
+  border-width: 0px;
+  background-color: rgba(191, 38, 38, 0.7);
+}
+.professor-page-assign-inc-text04 {
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+}
+.professor-page-assign-inc-menu {
+  top: 0px;
+  left: 0px;
+  width: 311px;
+  height: 726px;
+  display: flex;
+  position: absolute;
+  align-self: flex-start;
+  align-items: flex-start;
+  border-color: rgba(0, 0, 0, 0.15);
+  border-width: 1px;
+  padding-left: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 0px;
+}
+.professor-page-assign-inc-image {
+  width: 242px;
+  height: 174px;
+  object-fit: cover;
+}
+.professor-page-assign-inc-container4 {
+  width: 234px;
+  height: 850px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.professor-page-assign-inc-nav-above {
+  width: 255px;
+  height: 160px;
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-fiveunits);
+  align-items: stretch;
+  border-color: rgba(0, 0, 0, 0.23);
+  border-width: 1px;
+  flex-direction: column;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.professor-page-assign-inc-icon {
+  width: 24px;
+  height: 24px;
+}
+.professor-page-assign-inc-dashboard {
+  top: 3px;
+  left: 51px;
+  position: absolute;
+  font-size: 20px;
+}
+.professor-page-assign-inc-icon02 {
+  top: 47px;
+  left: -3px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.professor-page-assign-inc-contact {
+  top: 51px;
+  left: 51px;
+  position: absolute;
+  font-size: 20px;
+}
+.professor-page-assign-inc-icon04 {
+  top: 100px;
+  left: -1px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.professor-page-assign-inc-submit {
+  top: 100px;
+  left: var(--dl-space-space-threeunits);
+  position: absolute;
+  font-size: 20px;
+}
+.professor-page-assign-inc-nav-below {
+  width: 100%;
+  height: 160px;
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  margin-top: 3vh;
+  align-items: stretch;
+  flex-direction: column;
+}
+.professor-page-assign-inc-text07 {
+  top: 3px;
+  left: 51px;
+  position: absolute;
+  font-size: 20px;
+}
+.professor-page-assign-inc-icon07 {
+  width: 24px;
+  height: 24px;
+}
+.professor-page-assign-inc-icon09 {
+  top: 50px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.professor-page-assign-inc-text08 {
+  top: 51px;
+  left: 51px;
+  position: absolute;
+  font-size: 20px;
+}
+.professor-page-assign-inc-profile {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-top: var(--dl-space-space-unit);
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.professor-page-assign-inc-user-pic {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  object-fit: cover;
+  border-radius: var(--dl-radius-radius-round);
+}
+.professor-page-assign-inc-info {
+  display: flex;
+  align-items: flex-start;
+  margin-left: var(--dl-space-space-halfunit);
+  flex-direction: column;
+  justify-content: space-between;
+}
+.professor-page-assign-inc-text09 {
+  font-size: 1.15rem;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+.professor-page-assign-inc-text10 {
+  color: var(--dl-color-gray-500);
+  font-size: 0.75rem;
+}
+.professor-page-assign-inc-logout {
+  left: 174px;
+  width: 59px;
+  bottom: 13px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.professor-page-assign-inc-text11 {
+  color: rgba(0, 0, 0, 0.55);
+  right: 0px;
+  bottom: 0px;
+  position: absolute;
+  font-size: 13px;
+  align-self: flex-end;
+}
+.professor-page-assign-inc-assign {
+  top: 45px;
+  left: 364px;
+  position: absolute;
+}
+.professor-page-assign-inc-header {
+  top: 96px;
+  right: -11px;
+  width: 1117px;
+  height: 58px;
+  display: flex;
+  position: absolute;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  border-color: rgba(0, 0, 0, 0.63);
+  border-width: 1px;
+  justify-content: space-between;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 1px;
+}
+@media(max-width: 991px) {
+  .professor-page-assign-inc-profile {
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+  }
+  .professor-page-assign-inc-user-pic {
+    margin-left: 0px;
+  }
+}
+@media(max-width: 767px) {
+  .professor-page-assign-inc-header {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+}
+@media(max-width: 479px) {
+  .professor-page-assign-inc-header {
+    padding: var(--dl-space-space-unit);
+  }
+}
